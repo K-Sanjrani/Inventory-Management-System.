@@ -5,12 +5,12 @@ System in Python that can manage different types of products, handle stock opera
 #Features: 
 
 #Basic Inventory Management: 
-Add/remove products. 
-Sell and restock items. 
-List all products. 
-Remove expired groceries. 
-Search by name or type. 
-Calculate total inventory value.
+1. Add/remove products. 
+2. Sell and restock items. 
+3. List all products. 
+4. Remove expired groceries. 
+5. Search by name or type. 
+6. Calculate total inventory value.
 
 #Key OOP Concepts: 
 1. Inheritance (Product subclasses). 
@@ -19,19 +19,19 @@ Calculate total inventory value.
 4. Abstraction (ABC module).
 
 #Product Subclasses: 
-Electronics with warranty and brand. 
-Grocery with expiry date checking. 
-Clothing with size and material. 
-Each with their specific attributes and string representation. 
+1. Electronics with warranty and brand. 
+2. Grocery with expiry date checking. 
+3. Clothing with size and material. 
+4. Each with their specific attributes and string representation. 
 
 #Persistence: 
-Save to JSON file. 
-Load from JSON file with proper reconstruction. 
+1. Save to JSON file. 
+2. Load from JSON file with proper reconstruction. 
 
 #Error Handling: 
-Custom exceptions enable to specific error messages.
-Input validation throughout the data. 
+1. Custom exceptions enable to specific error messages.
+2. Input validation throughout the data. 
 
 #User_Interface: 
-Command-line interface with menu system.
-Clear feedback for all operations.
+1. Command-line interface with menu system.
+2. Clear feedback for all operations.
